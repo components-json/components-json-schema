@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "Validate components.json files",
   "main": "index.js",
+  "cli": "./cli.js",
   "directories": {
     "example": "examples"
   },
@@ -24,8 +25,10 @@
     "url": "https://github.com/components-json/components-json-schema/issues"
   },
   "homepage": "https://github.com/components-json/components-json-schema#readme",
-  "devDependencies": {
-    "glob": "^7.0.3",
+  "dependencies": {
     "jsonschema": "^1.1.0"
+  },
+  "devDependencies": {
+    "glob": "^7.0.3"
   }
 }
