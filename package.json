@@ -19,7 +19,16 @@
     "components-json",
     "json-schema"
   ],
-  "author": "",
+  "contributors": [
+    {
+        "name": "Aleksi Peebles",
+        "url": "http://www.aleksip.net"
+    },
+    {
+        "name": "Evan Lovely",
+        "url": "http://evanlovely.com"
+    }
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/components-json/components-json-schema/issues"
