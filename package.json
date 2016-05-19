@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/components-json/components-json-schema#readme",
   "devDependencies": {
+    "glob": "^7.0.3",
     "jsonschema": "^1.1.0"
   }
 }
