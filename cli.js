@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 'use strict';
 var componentsJsonSchema = require('./index.js');
 var fs = require('fs');

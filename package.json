@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Validate components.json files",
   "main": "index.js",
-  "cli": "./cli.js",
+  "bin": "./cli.js",
   "directories": {
     "example": "examples"
   },

@@ -4,7 +4,7 @@ var v = new Validator({
   throwError: true
 });
 var fs = require('fs');
-var schema = JSON.parse(fs.readFileSync('./components-schema.json', {
+var schema = JSON.parse(fs.readFileSync(__dirname + '/components-schema.json', {
   encoding: 'utf8'
 }));
 
